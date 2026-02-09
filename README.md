@@ -1,10 +1,10 @@
 👋 Hi! welcome to my GitHub profile!
 
-1. i like programming! 💻
-2. i'm from philippines! 🇵🇭
-3. my email address: incredifedor@gmail.com 📫🏠
-4. i currently learning c++! 🖥️
+1. I like programming! 💻
+2. I'm from philippines! 🇵🇭
+3. My email address: incredifedor@gmail.com 📫🏠
+4. I currently learning c++! 🖥️
 5. Gender: Male 🚻
 6. Age: 11 🎂
-7. my youtube channel: https://www.youtube.com/@YourlocalWindowsMalware1827 📁
-8. pronous he/him 🚹
+7. My youtube channel: https://www.youtube.com/@YourlocalWindowsMalware1827 📁
+8. Pronous: he/him 🚹
