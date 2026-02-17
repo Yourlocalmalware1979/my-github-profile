@@ -2,7 +2,7 @@
 
 1. I like programming! 💻
 2. I'm from philippines! 🇵🇭
-3. My email address: incredifedor@gmail.com 📫🏠
+3. My email address: incredifedor@gmail.com but don't use my account 📫🏠
 4. I currently learning c++! 🖥️
 5. Gender: Male 🚻
 6. Age: 11 🎂
